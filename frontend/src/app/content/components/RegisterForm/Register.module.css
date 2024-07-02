@@ -1,0 +1,79 @@
+
+._content{
+    width: 400px;
+    height: auto;
+    background: rgb(20, 20, 20);
+    border-radius: 15px;
+    box-shadow: 1px 2px 2px 1px #030303;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+._title_h1{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem 0;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal
+}
+
+.content__logo{
+    margin: 0 auto;
+    text-align: center;
+    align-self: center;
+}
+
+
+
+
+._content ._form div{
+    width: 100%;
+    padding: .5rem;
+    height: auto;
+    box-sizing: border-box;
+}
+
+._input{
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: auto;
+    outline: none;
+    border-radius: 4px;
+    border: none;
+}
+
+._label{
+    padding: 1rem 0;
+    color: white;
+}
+
+
+._button{
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: auto;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    background-color: #1134A3;
+    color: white;
+    font-size: 1rem;
+    font-weight:  bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+._button:hover{
+    background-color: #0d277c;
+  
+}
+
+._link{
+    text-decoration: none;
+    color: white;
+}
