@@ -1,6 +1,6 @@
 
 # Quiz NextApp -  Frontend
-Este projeto é uma aplicação de Quiz moderna e envolvente, projetada para permitir que os usuários respondam perguntas sobre vários tópicos, testem seus conhecimentos e recebam feedback imediato sobre suas respostas. Desenvolvida com foco na interatividade e na experiência do usuário, a aplicação inclui autenticação de usuários, gerenciamento de quizzes e design responsivo para garantir acessibilidade em todos os dispositivos.
+Este projeto é uma aplicação de Quiz moderna, projetada para permitir que os usuários respondam perguntas sobre vários tópicos, testem seus conhecimentos e recebam feedback imediato sobre suas respostas. Desenvolvida com foco na interatividade e na experiência do usuário, a aplicação inclui autenticação de usuários, gerenciamento de quizzes e design responsivo para garantir acessibilidade em todos os dispositivos.
 
 ## Frontend
 
