@@ -30,7 +30,7 @@ O frontend da aplicação foi desenvolvido utilizando:
  ##### $ npm run dev
 
 ### Tela Inicial
-<img src="/frontend/public/images/imagem2" />
+<img src="/frontend/public/images/imagem 2.png" />
 
 #-----------------------------------------------------------------------------------#
  # Quiz NextApp -  Backend
